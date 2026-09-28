@@ -1,4 +1,4 @@
-print("Welcome to the Test program!")
+print("Enter a menu option:")
 print("-" * 30)
 print("my name is joe")
 print("my age is 55")
