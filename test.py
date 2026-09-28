@@ -1,4 +1,5 @@
 print("Welcome to the Test application!")
+print("Enter a menu option:")
 print("-" * 30)
 print("my name is joe")
 print("my age is 55")
